@@ -105,16 +105,23 @@ section {
   line-height: 2rem;
   letter-spacing: 0.11px;
 }
-.experiencia {
-  width: 36%; /* Ajuste a largura conforme necessário */
-  margin: 0 35rem; /* Isso centraliza a seção */
+.especialista {
+  width: 40%; /* Ajuste a largura conforme necessário */
+  margin: 0 30rem; /* Isso centraliza a seção */
   text-align: left; /* Isso alinha o texto à esquerda dentro da seção */
+  position: absolute;
+  left: -10%;
+  top: 410px;
 }
-section{
-  img{
-    top: 10rem;
-  }
+.sobre-mim{
+  width: 44%; /* Ajuste a largura conforme necessário */
+  margin: 0 30rem; /* Isso centraliza a seção */
+  text-align: left; /* Isso alinha o texto à esquerda dentro da seção */
+  position: absolute;
+  left: -10%;
+  top: 490px;
 }
+
 
 footer {
     text-align: center;
