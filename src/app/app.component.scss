@@ -40,7 +40,7 @@ header nav ul {
 header nav ul li {
   min-width: fit-content;
   height: fit-content;
-  padding: 0 22.5%;
+  padding: 0 27%;
   cursor: pointer;
 
   list-style: none;
@@ -104,6 +104,16 @@ section {
   font-size: 1.5rem;
   line-height: 2rem;
   letter-spacing: 0.11px;
+}
+.experiencia {
+  width: 36%; /* Ajuste a largura conforme necessário */
+  margin: 0 35rem; /* Isso centraliza a seção */
+  text-align: left; /* Isso alinha o texto à esquerda dentro da seção */
+}
+section{
+  img{
+    top: 10rem;
+  }
 }
 
 footer {
